@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Anton&display=swap">
+<script>window.OM_SCENES = '[{"name": "도입부", "dur": 3.5, "desc": "신형 vs 구형 스펙 표가 줄마다 들어오고, 가장 큰 변화 줄이 강조됨"}, {"name": "중반부", "dur": 9, "desc": "강조 줄 하나가 상단 고정, 단어 단위 자막"}, {"name": "마지막", "dur": 4, "desc": "질문형 마무리와 팔로우 CTA"}]';</script>
+<script>window.OM_PLAYBACK = '{"mode":"loop"}';</script>
+<style>
+html,body{margin:0;height:100%;background:#0a0a0a;font-family:'Pretendard Variable',Pretendard,sans-serif;-webkit-font-smoothing:antialiased}
+a{color:#FF5A36}a:hover{color:#fff}
+</style>
+</helmet>
+<div style="position:fixed;inset:0;background:#0a0a0a;">
+  <x-import component-from-global-scope="ReelTemplate" from="./animations-v3.jsx ./reel-template.jsx" dc-props="{{ pieceProps }}" style="position:absolute;inset:0;" hint-size="100%,100%"></x-import>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props="{&quot;accent&quot;: {&quot;editor&quot;: &quot;color&quot;, &quot;default&quot;: &quot;#3D8BFF&quot;, &quot;options&quot;: [&quot;#FF5A36&quot;, &quot;#FFB21E&quot;, &quot;#3D8BFF&quot;, &quot;#FF4F8B&quot;], &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;스타일&quot;}, &quot;transition&quot;: {&quot;editor&quot;: &quot;enum&quot;, &quot;options&quot;: [&quot;슬래시&quot;, &quot;셔터&quot;, &quot;줌 펀치&quot;, &quot;없음&quot;], &quot;default&quot;: &quot;셔터&quot;, &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;스타일&quot;}, &quot;platform&quot;: {&quot;editor&quot;: &quot;enum&quot;, &quot;options&quot;: [&quot;인스타그램&quot;, &quot;유튜브&quot;, &quot;숨김&quot;], &quot;default&quot;: &quot;인스타그램&quot;, &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;채널&quot;}, &quot;handle&quot;: {&quot;editor&quot;: &quot;text&quot;, &quot;default&quot;: &quot;@channel&quot;, &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;채널&quot;}, &quot;videoSrc&quot;: {&quot;editor&quot;: &quot;text&quot;, &quot;default&quot;: &quot;&quot;, &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;영상&quot;}, &quot;videoFit&quot;: {&quot;editor&quot;: &quot;enum&quot;, &quot;options&quot;: [&quot;채우기&quot;, &quot;맞추기&quot;], &quot;default&quot;: &quot;채우기&quot;, &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;영상&quot;}, &quot;videoStart&quot;: {&quot;editor&quot;: &quot;float&quot;, &quot;default&quot;: 0, &quot;min&quot;: 0, &quot;max&quot;: 600, &quot;step&quot;: 0.1, &quot;unit&quot;: &quot;s&quot;, &quot;tsType&quot;: &quot;number&quot;, &quot;section&quot;: &quot;영상&quot;}, &quot;sound&quot;: {&quot;editor&quot;: &quot;boolean&quot;, &quot;default&quot;: false, &quot;tsType&quot;: &quot;boolean&quot;, &quot;section&quot;: &quot;영상&quot;}, &quot;kicker&quot;: {&quot;editor&quot;: &quot;text&quot;, &quot;default&quot;: &quot;XREAL · 2026&quot;, &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;도입부&quot;}, &quot;line1&quot;: {&quot;editor&quot;: &quot;text&quot;, &quot;default&quot;: &quot;가격 그대로, *밝기만* 두 배 가까이&quot;, &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;도입부&quot;}, &quot;leftName&quot;: {&quot;editor&quot;: &quot;text&quot;, &quot;default&quot;: &quot;1 Pro&quot;, &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;도입부&quot;}, &quot;rightName&quot;: {&quot;editor&quot;: &quot;text&quot;, &quot;default&quot;: &quot;1 Pro+&quot;, &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;도입부&quot;}, &quot;rows&quot;: {&quot;editor&quot;: &quot;text&quot;, &quot;default&quot;: &quot;밝기|700니트|1200니트 / 2D→3D 변환|30fps|60fps / 가격|$599|$599&quot;, &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;도입부&quot;}, &quot;highlight&quot;: {&quot;editor&quot;: &quot;float&quot;, &quot;default&quot;: 0, &quot;min&quot;: 0, &quot;max&quot;: 3, &quot;step&quot;: 1, &quot;tsType&quot;: &quot;number&quot;, &quot;section&quot;: &quot;도입부&quot;}, &quot;badge&quot;: {&quot;editor&quot;: &quot;text&quot;, &quot;default&quot;: &quot;+71%&quot;, &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;도입부&quot;}, &quot;bodySubs&quot;: {&quot;editor&quot;: &quot;text&quot;, &quot;default&quot;: &quot;엑스리얼 *1 프로 플러스* / 밝기 700에서 *1200니트* / 가격은 *599달러* 그대로&quot;, &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;중반부&quot;}, &quot;outroLine1&quot;: {&quot;editor&quot;: &quot;text&quot;, &quot;default&quot;: &quot;가격 안 올린 업그레이드,&quot;, &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;마지막&quot;}, &quot;outroLine2&quot;: {&quot;editor&quot;: &quot;text&quot;, &quot;default&quot;: &quot;*갈아탈* 만할까?&quot;, &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;마지막&quot;}, &quot;ctaText&quot;: {&quot;editor&quot;: &quot;text&quot;, &quot;default&quot;: &quot;팔로우하고 다음 소식 받기&quot;, &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;마지막&quot;}, &quot;motionEditor&quot;: {&quot;editor&quot;: &quot;boolean&quot;, &quot;default&quot;: true, &quot;tsType&quot;: &quot;boolean&quot;, &quot;section&quot;: &quot;보기&quot;}}">
+class Component extends DCLogic {
+  renderVals() {
+    const d = {
+          "layout": "specs",
+          "accent": "#3D8BFF",
+          "transition": "셔터",
+          "platform": "인스타그램",
+          "handle": "@channel",
+          "videoSrc": "",
+          "videoStart": 0,
+          "videoFit": "채우기",
+          "sound": false,
+          "kicker": "XREAL · 2026",
+          "line1": "가격 그대로, *밝기만* 두 배 가까이",
+          "leftName": "1 Pro",
+          "rightName": "1 Pro+",
+          "rows": "밝기|700니트|1200니트 / 2D→3D 변환|30fps|60fps / 가격|$599|$599",
+          "highlight": 0,
+          "badge": "+71%",
+          "bodySubs": "엑스리얼 *1 프로 플러스* / 밝기 700에서 *1200니트* / 가격은 *599달러* 그대로",
+          "outroLine1": "가격 안 올린 업그레이드,",
+          "outroLine2": "*갈아탈* 만할까?",
+          "ctaText": "팔로우하고 다음 소식 받기"
+    };
+    const P = {};
+    for (const k in d) P[k] = this.props[k] ?? d[k];
+    P.layout = d.layout;
+    P.videoFit = P.videoFit === '맞추기' ? 'fit' : 'cover';
+    P.platform = { '유튜브': 'youtube', '숨김': 'none' }[P.platform] || 'instagram';
+    P.transition = { '셔터': 'shutter', '줌 펀치': 'zoom', '없음': 'none' }[P.transition] || 'slash';
+    return { pieceProps: P };
+  }
+}
+</script>
+</body>
+</html>

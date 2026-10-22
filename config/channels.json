@@ -1,0 +1,858 @@
+{
+ "Plaud": {
+  "lane": "ai_gadget",
+  "channel_id": "UCJyhWgOtkSaHDSUpAP5L9Xg",
+  "channel": "Plaud ",
+  "url": "https://www.youtube.com/@PlaudAI",
+  "candidates": [
+   [
+    "UCJyhWgOtkSaHDSUpAP5L9Xg",
+    "Plaud "
+   ],
+   [
+    "UCDYJ3BCFTGLylzCtKTrlkMw",
+    "That Mark Gilroy"
+   ],
+   [
+    "UCgwFTCrmICQCv18B5_9N5kQ",
+    "AI for Experts"
+   ]
+  ]
+ },
+ "Rabbit r1": {
+  "lane": "ai_gadget",
+  "channel_id": "UCeIw62Yv8KFehD152q8_iYA",
+  "channel": "rabbit",
+  "url": "https://www.youtube.com/channel/UCeIw62Yv8KFehD152q8_iYA",
+  "candidates": [
+   [
+    "UCG3YPQS6W0bHdru5vOGMj0A",
+    "BetterWay"
+   ],
+   [
+    "UCTCMk9I_YW-xjeHEHCXZ6AQ",
+    "WebPro Education"
+   ],
+   [
+    "UCFQMnBA3CS502aghlcr0_aw",
+    "Coffeezilla"
+   ]
+  ]
+ },
+ "Ray-Ban Meta": {
+  "lane": "ai_gadget",
+  "channel_id": "UCr6KJz_DHUXSwN3sP0gOoOw",
+  "channel": "Ray-Ban ",
+  "url": "NA",
+  "candidates": [
+   [
+    "UC04FyDIvYXNecpbG8gyOw4A",
+    "Meta"
+   ],
+   [
+    "UCr6KJz_DHUXSwN3sP0gOoOw",
+    "Ray-Ban "
+   ]
+  ]
+ },
+ "Samsung": {
+  "lane": "ai_gadget",
+  "channel_id": "UCWwgaK7x0_FR1goeSRazfsQ",
+  "channel": "Samsung",
+  "url": "https://www.youtube.com/@Samsung",
+  "candidates": [
+   [
+    "UCWwgaK7x0_FR1goeSRazfsQ",
+    "Samsung"
+   ]
+  ]
+ },
+ "Apple": {
+  "lane": "ai_gadget",
+  "channel_id": "UCE_M8A5yxnLfW0KghEeajjw",
+  "channel": "Apple",
+  "url": "https://www.youtube.com/@Apple",
+  "candidates": [
+   [
+    "UCE_M8A5yxnLfW0KghEeajjw",
+    "Apple"
+   ]
+  ]
+ },
+ "Sony": {
+  "lane": "ai_gadget",
+  "channel_id": "UC7McIsZ7v-RdLedtk6d6zRg",
+  "channel": "Sony ",
+  "url": "https://www.youtube.com/channel/UC7McIsZ7v-RdLedtk6d6zRg",
+  "candidates": [
+   [
+    "UCDCIVTeg-_V-xmFV8kAkblg",
+    "Sony Corporation - Official"
+   ],
+   [
+    "UC7McIsZ7v-RdLedtk6d6zRg",
+    "Sony "
+   ]
+  ]
+ },
+ "Bose": {
+  "lane": "ai_gadget",
+  "channel_id": "UCaJBo_nRSL1XF1eewwukTCg",
+  "channel": "Bose",
+  "url": "https://www.youtube.com/@Bose",
+  "candidates": [
+   [
+    "UCQImkFB2Kr7Kb0DGzYGUgWQ",
+    "Bose Product Support"
+   ],
+   [
+    "UCaJBo_nRSL1XF1eewwukTCg",
+    "Bose"
+   ]
+  ]
+ },
+ "Nothing": {
+  "lane": "ai_gadget",
+  "channel_id": "UCuVQmkiETvqmLviDcBtQw4A",
+  "channel": "Nothing",
+  "url": "https://www.youtube.com/@NothingTechnology",
+  "candidates": [
+   [
+    "UCuVQmkiETvqmLviDcBtQw4A",
+    "Nothing"
+   ]
+  ]
+ },
+ "DJI": {
+  "lane": "ai_gadget",
+  "channel_id": "UCsNGtpqGsyw0U6qEG-WHadA",
+  "channel": "DJI",
+  "url": "https://www.youtube.com/@DJI",
+  "candidates": [
+   [
+    "UCsNGtpqGsyw0U6qEG-WHadA",
+    "DJI"
+   ]
+  ]
+ },
+ "Insta360": {
+  "lane": "ai_gadget",
+  "channel_id": "UC3qWcF49rv8VMZO7Vg6kj5w",
+  "channel": "Insta360",
+  "url": "https://www.youtube.com/@insta360",
+  "candidates": [
+   [
+    "UC3qWcF49rv8VMZO7Vg6kj5w",
+    "Insta360"
+   ]
+  ]
+ },
+ "XREAL": {
+  "lane": "ai_gadget",
+  "channel_id": "UCs8BFKYBBfEE6Sfj7zh9kOA",
+  "channel": "XREAL",
+  "url": "https://www.youtube.com/@xreal_global",
+  "candidates": [
+   [
+    "UCs8BFKYBBfEE6Sfj7zh9kOA",
+    "XREAL"
+   ]
+  ]
+ },
+ "VITURE": {
+  "lane": "ai_gadget",
+  "channel_id": "UC9oom6va1SHZvVOeQfRPP7A",
+  "channel": "VITURE",
+  "url": "https://www.youtube.com/@VITURE",
+  "candidates": [
+   [
+    "UC9oom6va1SHZvVOeQfRPP7A",
+    "VITURE"
+   ]
+  ]
+ },
+ "Rokid": {
+  "lane": "ai_gadget",
+  "channel_id": "UCF6jzRJBunf4oOk9gu67KyQ",
+  "channel": "Rokid",
+  "url": "https://www.youtube.com/@RokidGlobal",
+  "candidates": [
+   [
+    "UCF6jzRJBunf4oOk9gu67KyQ",
+    "Rokid"
+   ]
+  ]
+ },
+ "Roborock": {
+  "lane": "ai_gadget",
+  "channel_id": "UC86CMysBnOMlRdBJEfihcUQ",
+  "channel": "Roborock ",
+  "url": "https://www.youtube.com/@roborockglobal",
+  "candidates": [
+   [
+    "UC86CMysBnOMlRdBJEfihcUQ",
+    "Roborock "
+   ],
+   [
+    "UCvavJlMjlTd4wLwi9yKCtew",
+    "Vacuum Wars"
+   ],
+   [
+    "UCEZkzP56Hp79jBA2B2j_-Xw",
+    "The Viewing Angle"
+   ]
+  ]
+ },
+ "Dreame": {
+  "lane": "ai_gadget",
+  "channel_id": "UCnwmBFm0ofTKKhNxCaq2LTA",
+  "channel": "Dreame Tech",
+  "url": "https://www.youtube.com/@DreameTech",
+  "candidates": [
+   [
+    "UCnwmBFm0ofTKKhNxCaq2LTA",
+    "Dreame Tech"
+   ]
+  ]
+ },
+ "ECOVACS": {
+  "lane": "ai_gadget",
+  "channel_id": "UCfJqQ1_rmau4p1nVtGbzkGw",
+  "channel": "ECOVACS ROBOTICS",
+  "url": "https://www.youtube.com/@ECOVACSRobotics",
+  "candidates": [
+   [
+    "UCfJqQ1_rmau4p1nVtGbzkGw",
+    "ECOVACS ROBOTICS"
+   ]
+  ]
+ },
+ "Narwal": {
+  "lane": "ai_gadget",
+  "channel_id": "UCLS3OaK7hPf2ihuktEv1wfg",
+  "channel": "Narwal",
+  "url": "https://www.youtube.com/@NarwalRobotics",
+  "candidates": [
+   [
+    "UCLS3OaK7hPf2ihuktEv1wfg",
+    "Narwal"
+   ],
+   [
+    "UCDPk9MG2RexnOMGTD-YnSnA",
+    "Nat Geo Animals"
+   ]
+  ]
+ },
+ "eufy": {
+  "lane": "ai_gadget",
+  "channel_id": "UC41a3s-U9adnnSaqF69Lryw",
+  "channel": "eufy Security Camera Owners",
+  "url": "https://www.youtube.com/channel/UC41a3s-U9adnnSaqF69Lryw",
+  "candidates": [
+   [
+    "UCTvNswS3K4CR9vksub9yH5A",
+    "eufy Tutorials"
+   ],
+   [
+    "UC240-QjEREvwY-0QLXEVH1g",
+    "Best Security Devices"
+   ],
+   [
+    "UCzJPv5DLykCDruQ2jz3uYKA",
+    "Smart Devices Channel"
+   ]
+  ]
+ },
+ "Garmin Golf": {
+  "lane": "golf_tech",
+  "channel_id": "UC6vopISsINRLQ8seRlI_LtA",
+  "channel": "Garmin",
+  "url": "https://www.youtube.com/@Garmin",
+  "candidates": [
+   [
+    "UC6vopISsINRLQ8seRlI_LtA",
+    "Garmin"
+   ]
+  ]
+ },
+ "Bushnell Golf": {
+  "lane": "golf_tech",
+  "channel_id": "UCY6F_zF-zloprXeahcqOCvA",
+  "channel": "Bushnell Golf",
+  "url": "https://www.youtube.com/@BushnellGolf",
+  "candidates": [
+   [
+    "UCY6F_zF-zloprXeahcqOCvA",
+    "Bushnell Golf"
+   ]
+  ]
+ },
+ "Voice Caddie": {
+  "lane": "golf_tech",
+  "channel_id": "UC0Qgwu1fwWF6XfuknonotOg",
+  "channel": "Voice Caddie",
+  "url": "https://www.youtube.com/@voicecaddie_us",
+  "candidates": [
+   [
+    "UC0Qgwu1fwWF6XfuknonotOg",
+    "Voice Caddie"
+   ],
+   [
+    "UCBiVil3YezWP7MvimR1Ma5Q",
+    "Voice Caddie PH"
+   ],
+   [
+    "UCgb-p291xQ_hUx7hQtOb72A",
+    "Lets Play Thru"
+   ]
+  ]
+ },
+ "Rapsodo Golf": {
+  "lane": "golf_tech",
+  "channel_id": "UCaSvL4tjECPLeU4ZKHmhAjw",
+  "channel": "Rapsodo",
+  "url": "https://www.youtube.com/@Rapsodo",
+  "candidates": [
+   [
+    "UCp3HL31-qCOFOVV2Upi2lVw",
+    "Ryan Griffiths Golf"
+   ],
+   [
+    "UCihYPcdwx-CBfdVOhsRo1Uw",
+    "Golf Simulator Videos"
+   ],
+   [
+    "UCUNn2JE6WWieyLyj2-Rs0xQ",
+    "Cordie Walker GolfWell"
+   ]
+  ]
+ },
+ "Full Swing Golf": {
+  "lane": "golf_tech",
+  "channel_id": "UCikdurLdZIJXxrUN7x-B8YA",
+  "channel": "Full Swing Golf",
+  "url": "https://www.youtube.com/@fullswinggolf",
+  "candidates": [
+   [
+    "UCikdurLdZIJXxrUN7x-B8YA",
+    "Full Swing Golf"
+   ],
+   [
+    "UCWOA1ZGywLbqmigxE4Qlvuw",
+    "Netflix"
+   ]
+  ]
+ },
+ "TrackMan Golf": {
+  "lane": "golf_tech",
+  "channel_id": "UCoLFCXQEusbOupxCEG5nGxg",
+  "channel": "Trackman",
+  "url": "https://www.youtube.com/@TrackmanGolf",
+  "candidates": [
+   [
+    "UCClYRZ_4jDOSNmJ07XoQyvg",
+    "Sim iO Golf"
+   ],
+   [
+    "UCoLFCXQEusbOupxCEG5nGxg",
+    "Trackman"
+   ]
+  ]
+ },
+ "Shot Scope": {
+  "lane": "golf_tech",
+  "channel_id": "UC8BoaUzk_oo_Ujmp-uxg8PQ",
+  "channel": "Shot Scope",
+  "url": "https://www.youtube.com/@shotscope",
+  "candidates": [
+   [
+    "UC8BoaUzk_oo_Ujmp-uxg8PQ",
+    "Shot Scope"
+   ]
+  ]
+ },
+ "Arccos Golf": {
+  "lane": "golf_tech",
+  "channel_id": "UCziHQWbj82dSIilxMsb1utQ",
+  "channel": "Arccos Golf",
+  "url": "https://www.youtube.com/@arccosgolf",
+  "candidates": [
+   [
+    "UCziHQWbj82dSIilxMsb1utQ",
+    "Arccos Golf"
+   ]
+  ]
+ },
+ "TaylorMade Golf": {
+  "lane": "golf_tech",
+  "channel_id": "UClJO9jvaU5mvNuP-XTbhHGw",
+  "channel": "TaylorMade Golf",
+  "url": "https://www.youtube.com/@TAYLORMADEGOLF",
+  "candidates": [
+   [
+    "UC5igJFdBQVqg7hXFI7075OQ",
+    "Golf Channel"
+   ],
+   [
+    "UClJO9jvaU5mvNuP-XTbhHGw",
+    "TaylorMade Golf"
+   ]
+  ]
+ },
+ "Callaway Golf": {
+  "lane": "golf_tech",
+  "channel_id": "UCDifOmdDEDNZkV0eZl2soQg",
+  "channel": "Callaway Golf",
+  "url": "https://www.youtube.com/channel/UCDifOmdDEDNZkV0eZl2soQg",
+  "candidates": [
+   [
+    "UCFwMNrkXgp8LmVDcx0RiBNg",
+    "Callaway Golf Europe"
+   ],
+   [
+    "UClA7NVm3pnc6elrcCctWFSw",
+    "Golf News"
+   ],
+   [
+    "UC-FR8FgVtRj8bapmJHU4T9A",
+    "Golf News Net"
+   ]
+  ]
+ },
+ "Titleist": {
+  "lane": "golf_tech",
+  "channel_id": "UCyy8ULLDGSm16_EkXdIt4Gw",
+  "channel": "Titleist",
+  "url": "https://www.youtube.com/@titleist",
+  "candidates": [
+   [
+    "UCyy8ULLDGSm16_EkXdIt4Gw",
+    "Titleist"
+   ]
+  ]
+ },
+ "PING Golf": {
+  "lane": "golf_tech",
+  "channel_id": "UCqDbbKM_yE8NR2fk3CFUi2g",
+  "channel": "PING",
+  "url": "https://www.youtube.com/@PING",
+  "candidates": [
+   [
+    "UCqDbbKM_yE8NR2fk3CFUi2g",
+    "PING"
+   ]
+  ]
+ },
+ "GOLFZON": {
+  "lane": "golf_tech",
+  "channel_id": "UCcd172sb5eJDp-vCdmf_Baw",
+  "channel": "GOLFZON",
+  "url": "https://www.youtube.com/@GOLFZONGOLF",
+  "candidates": [
+   [
+    "UCcd172sb5eJDp-vCdmf_Baw",
+    "GOLFZON"
+   ],
+   [
+    "UCirZm4sf6j4gbhnSwLJi3kw",
+    "이재경"
+   ]
+  ]
+ },
+ "EcoFlow": {
+  "lane": "power_camp",
+  "channel_id": "UCk8Zk8tUAwBN_NKkORh4q2Q",
+  "channel": "EcoFlow",
+  "url": "https://www.youtube.com/@EcoFlowTech",
+  "candidates": [
+   [
+    "UCk8Zk8tUAwBN_NKkORh4q2Q",
+    "EcoFlow"
+   ]
+  ]
+ },
+ "Jackery": {
+  "lane": "power_camp",
+  "channel_id": "UCjDZe7g_sX9vFjg3uDQEqHA",
+  "channel": "Jackery",
+  "url": "https://www.youtube.com/@Jackeryusa",
+  "candidates": [
+   [
+    "UCjDZe7g_sX9vFjg3uDQEqHA",
+    "Jackery"
+   ],
+   [
+    "UCdCV_aCjfeBSUx_yucyC3rg",
+    "サトシの趣味部屋"
+   ],
+   [
+    "UCfp2MqK_qtOhjVq7fur7MbA",
+    "ぼん旅"
+   ]
+  ]
+ },
+ "BLUETTI": {
+  "lane": "power_camp",
+  "channel_id": "UC__Tu8lHDpThTB2EIpfbJ7Q",
+  "channel": "BLUETTI",
+  "url": "https://www.youtube.com/@BLUETTIOfficial",
+  "candidates": [
+   [
+    "UC__Tu8lHDpThTB2EIpfbJ7Q",
+    "BLUETTI"
+   ],
+   [
+    "UCe2BwE61Gi-JERc-q1POp_w",
+    "BLUETTI Support"
+   ]
+  ]
+ },
+ "Anker SOLIX": {
+  "lane": "power_camp",
+  "channel_id": "UCv6bA2FHQhi4yzSnDo1TXAg",
+  "channel": "Anker SOLIX",
+  "url": "https://www.youtube.com/@AnkerSOLIX",
+  "candidates": [
+   [
+    "UC0EO1ADrU8zNV898VdlYFng",
+    "Anker SOLIX Guides"
+   ],
+   [
+    "UCR0AnNR7sViH3TWMJl5jyxw",
+    "Jon Rettinger"
+   ]
+  ]
+ },
+ "Goal Zero": {
+  "lane": "power_camp",
+  "channel_id": "UCqgUNaksnB2Txqu7ahwuz0w",
+  "channel": "Goal Zero",
+  "url": "https://www.youtube.com/@goalzero",
+  "candidates": [
+   [
+    "UCqgUNaksnB2Txqu7ahwuz0w",
+    "Goal Zero"
+   ]
+  ]
+ },
+ "Snow Peak": {
+  "lane": "power_camp",
+  "channel_id": "UCzO_dq-JK3Klz4vRGwGeEwA",
+  "channel": "Snow Peak",
+  "url": "https://www.youtube.com/@SnowPeakJapan",
+  "candidates": [
+   [
+    "UCQaCf6xdM8mf-HK9fO1em3g",
+    "스노우피크"
+   ],
+   [
+    "UCzO_dq-JK3Klz4vRGwGeEwA",
+    "Snow Peak"
+   ]
+  ]
+ },
+ "Helinox": {
+  "lane": "power_camp",
+  "channel_id": "UC9k0evEphXkHiiuyr-Fb7kg",
+  "channel": "Helinox",
+  "url": "https://www.youtube.com/channel/UC9k0evEphXkHiiuyr-Fb7kg",
+  "candidates": [
+   [
+    "UCtoNGcHiNww6t326GdEKNmw",
+    "Divyank Kurada"
+   ],
+   [
+    "UCwk1eGchRjfWfe8QQxiUpZA",
+    "GEAR LIFE UP ME【気分が上がるギア】"
+   ],
+   [
+    "UC4aOU8uFLLU0kESBOwdf9_w",
+    "Ryoya Takashima"
+   ]
+  ]
+ },
+ "Coleman": {
+  "lane": "power_camp",
+  "channel_id": "UCkhjHflQ8a8P7YFieaFlbog",
+  "channel": "Coleman Outdoors",
+  "url": "https://www.youtube.com/@ColemanOutdoors",
+  "candidates": [
+   [
+    "UCWQxTYgmF-Igk21PgP3Stew",
+    "Coleman® EMEA Official Channel"
+   ]
+  ]
+ },
+ "PETKIT": {
+  "lane": "pet_tech",
+  "channel_id": "UCLHVvVTnWf7ZD1PzUP9bERQ",
+  "channel": "PETKIT OFFICIAL",
+  "url": "https://www.youtube.com/@petkitofficial",
+  "candidates": [
+   [
+    "UCLHVvVTnWf7ZD1PzUP9bERQ",
+    "PETKIT OFFICIAL"
+   ],
+   [
+    "UCHFbC5JVzqXfxHN29ZUOMiw",
+    "The Cat Butler"
+   ]
+  ]
+ },
+ "Litter-Robot": {
+  "lane": "pet_tech",
+  "channel_id": "UC7e-UuoFG5rNKRx-Po2HPmw",
+  "channel": "Litter-Robot",
+  "url": "https://www.youtube.com/@LitterRobot",
+  "candidates": [
+   [
+    "UC7e-UuoFG5rNKRx-Po2HPmw",
+    "Litter-Robot"
+   ]
+  ]
+ },
+ "CATLINK": {
+  "lane": "pet_tech",
+  "channel_id": "UCXmF8s5wCNE2yz4c1CHfoVg",
+  "channel": "CATLINK Global",
+  "url": "https://www.youtube.com/channel/UCXmF8s5wCNE2yz4c1CHfoVg",
+  "candidates": [
+   [
+    "UCVNg9pD6k8WUYkEOBtqsARw",
+    "SmartPaw"
+   ],
+   [
+    "UC4MZL3uQENjtvUYfjKjNyzA",
+    "Catlink EU"
+   ],
+   [
+    "UCXmF8s5wCNE2yz4c1CHfoVg",
+    "CATLINK Global"
+   ]
+  ]
+ },
+ "PETLIBRO": {
+  "lane": "pet_tech",
+  "channel_id": "UCOQYDloS_P7yPsy0E0bOlOw",
+  "channel": "Petlibro",
+  "url": "https://www.youtube.com/@Petlibro",
+  "candidates": [
+   [
+    "UCOQYDloS_P7yPsy0E0bOlOw",
+    "Petlibro"
+   ],
+   [
+    "UC5pK3w6QEq1bUMmU2Hs43Pw",
+    "Best Buy"
+   ],
+   [
+    "UCKQIWHdTl1Z-I4RaQiIeTvg",
+    "MitGreen TV"
+   ]
+  ]
+ },
+ "Furbo": {
+  "lane": "pet_tech",
+  "channel_id": "UCfZ2e272fu_-jSNICeHcIUw",
+  "channel": "Furboofficial",
+  "url": "https://www.youtube.com/@Furboofficial",
+  "candidates": [
+   [
+    "UCw-DiNzni5cgW8OSppVsTOQ",
+    "Pet Cameras"
+   ],
+   [
+    "UCp0hYYBW6IMayGgR-WeoCvQ",
+    "TheEllenShow"
+   ],
+   [
+    "UCfZ2e272fu_-jSNICeHcIUw",
+    "Furboofficial"
+   ]
+  ]
+ },
+ "Neakasa": {
+  "lane": "pet_tech",
+  "channel_id": "UC9KLJ94fSkboyVerOeAF3Vg",
+  "channel": "Neakasa",
+  "url": "https://www.youtube.com/@neakasa_tech",
+  "candidates": [
+   [
+    "UC9KLJ94fSkboyVerOeAF3Vg",
+    "Neakasa"
+   ],
+   [
+    "UCVNg9pD6k8WUYkEOBtqsARw",
+    "SmartPaw"
+   ],
+   [
+    "UC4fEg1uleJhZbYoz7ppup_Q",
+    "SOAON Channel"
+   ]
+  ]
+ },
+ "pidan": {
+  "lane": "pet_tech",
+  "channel_id": "UCDoIb5uphj9GDmo4ra79ytg",
+  "channel": "pidan official",
+  "url": "https://www.youtube.com/@pidanofficial7883",
+  "candidates": [
+   [
+    "UCDoIb5uphj9GDmo4ra79ytg",
+    "pidan official"
+   ],
+   [
+    "UCfgnQotAPYstwbnh_-3jJ7w",
+    "Amazon Reviews with Brandon & Hazel"
+   ],
+   [
+    "UCZAdLs0HMQkgBVb46eUmu1Q",
+    "InternetTenjikai TV / World Trade Show TV"
+   ]
+  ]
+ },
+ "Unitree Robotics": {
+  "lane": "ai_robot",
+  "channel_id": "UCsMbp4V8oxzHCMdOUP-3oWw",
+  "channel": "Unitree Robotics",
+  "url": "https://www.youtube.com/@unitreerobotics",
+  "candidates": [
+   [
+    "UCsMbp4V8oxzHCMdOUP-3oWw",
+    "Unitree Robotics"
+   ]
+  ]
+ },
+ "Boston Dynamics": {
+  "lane": "ai_robot",
+  "channel_id": "UC7vVhkEfw4nOGp8TyDk7RcQ",
+  "channel": "Boston Dynamics",
+  "url": "https://www.youtube.com/@BostonDynamics",
+  "candidates": [
+   [
+    "UC7vVhkEfw4nOGp8TyDk7RcQ",
+    "Boston Dynamics"
+   ]
+  ]
+ },
+ "1X": {
+  "lane": "ai_robot",
+  "channel_id": "UCoHslVexR2q57wUoCRfdUsg",
+  "channel": "1X",
+  "url": "https://www.youtube.com/channel/UCoHslVexR2q57wUoCRfdUsg",
+  "candidates": [
+   [
+    "UCW12Hdhb8pVj_BrAy3A0HvQ",
+    "Zay Casting Channel"
+   ],
+   [
+    "UCoOx45FcGxN7sI2xQakj0EA",
+    "Sony "
+   ],
+   [
+    "UCTmx5ntaaBTrzThDw_exaMg",
+    "X:IN"
+   ]
+  ]
+ },
+ "Figure AI": {
+  "lane": "ai_robot",
+  "channel_id": "UCYlq-KmwPjc1DtsGmthFqSQ",
+  "channel": "Figure",
+  "url": "https://www.youtube.com/@figureai",
+  "candidates": [
+   [
+    "UCYlq-KmwPjc1DtsGmthFqSQ",
+    "Figure"
+   ],
+   [
+    "UCUyH4QfXX-5NOT0bULqG6lQ",
+    "Wall Street Millennial"
+   ]
+  ]
+ },
+ "Tesla": {
+  "lane": "ai_robot",
+  "channel_id": "UC5WjFrtBdufl6CZojX3D8dQ",
+  "channel": "Tesla",
+  "url": "https://www.youtube.com/@tesla",
+  "candidates": [
+   [
+    "UC5WjFrtBdufl6CZojX3D8dQ",
+    "Tesla"
+   ]
+  ]
+ },
+ "Agility Robotics": {
+  "lane": "ai_robot",
+  "channel_id": "UCN-StetwWuVYf-MU2_NVj4A",
+  "channel": "Agility",
+  "url": "https://www.youtube.com/@AgilityRobotics",
+  "candidates": [
+   [
+    "UCN-StetwWuVYf-MU2_NVj4A",
+    "Agility"
+   ]
+  ]
+ },
+ "Apptronik": {
+  "lane": "ai_robot",
+  "channel_id": "UCo9jdosoSQtDgyTThukoCgg",
+  "channel": "Apptronik",
+  "url": "https://www.youtube.com/channel/UCo9jdosoSQtDgyTThukoCgg",
+  "candidates": [
+   [
+    "UCP7jMXSY2xbc3KCAE0MHQ-A",
+    "Google DeepMind"
+   ],
+   [
+    "UCX7TbTCz71eh-FMzJNP7FCw",
+    "Fox Business Clips"
+   ],
+   [
+    "UCZMHeMhP5QTymkkBfGzoqaQ",
+    "Robot Comparisons: Humanoids, Automation & AI"
+   ]
+  ]
+ },
+ "Galbot": {
+  "lane": "ai_robot",
+  "channel_id": "UCtWK-1gf-HoocxS-DUirRow",
+  "channel": "Galbot",
+  "url": "https://www.youtube.com/@GalbotRobotics",
+  "candidates": [
+   [
+    "UCtWK-1gf-HoocxS-DUirRow",
+    "Galbot"
+   ],
+   [
+    "UCAmj4-d-RbzFLW12Y-O2rnA",
+    "여기에TV"
+   ],
+   [
+    "UClutrzw8-tAJKJhFI5e_0Sw",
+    "Humanoid Robots Guide To The Galaxy"
+   ]
+  ]
+ },
+ "UBTECH": {
+  "lane": "ai_robot",
+  "channel_id": "UCdYzpvcdKkvlfTc-Abe6cJQ",
+  "channel": "UBTECH Robotics",
+  "url": "https://www.youtube.com/channel/UCdYzpvcdKkvlfTc-Abe6cJQ",
+  "candidates": [
+   [
+    "UCHBDXQDmqnaqIEPdEapEFVQ",
+    "New China TV"
+   ],
+   [
+    "UC4SUWizzKc1tptprBkWjX2Q",
+    "South China Morning Post"
+   ],
+   [
+    "UCTWfVo_gMoR4ufZefRJPtNA",
+    "Franco Aversa"
+   ]
+  ]
+ }
+}

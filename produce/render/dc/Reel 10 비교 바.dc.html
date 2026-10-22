@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Anton&display=swap">
+<script>window.OM_SCENES = '[{"name": "도입부", "dur": 3.5, "desc": "한 지표로 제품 3~5개 막대가 자라남, 강조 항목은 액센트"}, {"name": "중반부", "dur": 9, "desc": "강조 항목 상단 고정, 단어 단위 자막"}, {"name": "마지막", "dur": 4, "desc": "질문형 마무리와 팔로우 CTA"}]';</script>
+<script>window.OM_PLAYBACK = '{"mode":"loop"}';</script>
+<style>
+html,body{margin:0;height:100%;background:#0a0a0a;font-family:'Pretendard Variable',Pretendard,sans-serif;-webkit-font-smoothing:antialiased}
+a{color:#FF5A36}a:hover{color:#fff}
+</style>
+</helmet>
+<div style="position:fixed;inset:0;background:#0a0a0a;">
+  <x-import component-from-global-scope="ReelTemplate" from="./animations-v3.jsx ./reel-template.jsx" dc-props="{{ pieceProps }}" style="position:absolute;inset:0;" hint-size="100%,100%"></x-import>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props="{&quot;accent&quot;: {&quot;editor&quot;: &quot;color&quot;, &quot;default&quot;: &quot;#FF5A36&quot;, &quot;options&quot;: [&quot;#FF5A36&quot;, &quot;#FFB21E&quot;, &quot;#3D8BFF&quot;, &quot;#FF4F8B&quot;], &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;스타일&quot;}, &quot;transition&quot;: {&quot;editor&quot;: &quot;enum&quot;, &quot;options&quot;: [&quot;슬래시&quot;, &quot;셔터&quot;, &quot;줌 펀치&quot;, &quot;없음&quot;], &quot;default&quot;: &quot;셔터&quot;, &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;스타일&quot;}, &quot;platform&quot;: {&quot;editor&quot;: &quot;enum&quot;, &quot;options&quot;: [&quot;인스타그램&quot;, &quot;유튜브&quot;, &quot;숨김&quot;], &quot;default&quot;: &quot;인스타그램&quot;, &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;채널&quot;}, &quot;handle&quot;: {&quot;editor&quot;: &quot;text&quot;, &quot;default&quot;: &quot;@channel&quot;, &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;채널&quot;}, &quot;videoSrc&quot;: {&quot;editor&quot;: &quot;text&quot;, &quot;default&quot;: &quot;&quot;, &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;영상&quot;}, &quot;videoFit&quot;: {&quot;editor&quot;: &quot;enum&quot;, &quot;options&quot;: [&quot;채우기&quot;, &quot;맞추기&quot;], &quot;default&quot;: &quot;채우기&quot;, &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;영상&quot;}, &quot;videoStart&quot;: {&quot;editor&quot;: &quot;float&quot;, &quot;default&quot;: 0, &quot;min&quot;: 0, &quot;max&quot;: 600, &quot;step&quot;: 0.1, &quot;unit&quot;: &quot;s&quot;, &quot;tsType&quot;: &quot;number&quot;, &quot;section&quot;: &quot;영상&quot;}, &quot;sound&quot;: {&quot;editor&quot;: &quot;boolean&quot;, &quot;default&quot;: false, &quot;tsType&quot;: &quot;boolean&quot;, &quot;section&quot;: &quot;영상&quot;}, &quot;kicker&quot;: {&quot;editor&quot;: &quot;text&quot;, &quot;default&quot;: &quot;소니 워크맨 · 2026&quot;, &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;도입부&quot;}, &quot;line1&quot;: {&quot;editor&quot;: &quot;text&quot;, &quot;default&quot;: &quot;신형 워크맨 3종, *가격* 한눈에&quot;, &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;도입부&quot;}, &quot;items&quot;: {&quot;editor&quot;: &quot;text&quot;, &quot;default&quot;: &quot;ZX900|1,899 / WM1AM3|2,999 / WM1ZM3|5,899&quot;, &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;도입부&quot;}, &quot;unit&quot;: {&quot;editor&quot;: &quot;text&quot;, &quot;default&quot;: &quot;$&quot;, &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;도입부&quot;}, &quot;unitPos&quot;: {&quot;editor&quot;: &quot;enum&quot;, &quot;options&quot;: [&quot;prefix&quot;, &quot;suffix&quot;], &quot;default&quot;: &quot;prefix&quot;, &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;도입부&quot;}, &quot;highlight&quot;: {&quot;editor&quot;: &quot;float&quot;, &quot;default&quot;: 2, &quot;min&quot;: 0, &quot;max&quot;: 4, &quot;step&quot;: 1, &quot;tsType&quot;: &quot;number&quot;, &quot;section&quot;: &quot;도입부&quot;}, &quot;bodySubs&quot;: {&quot;editor&quot;: &quot;text&quot;, &quot;default&quot;: &quot;막내 ZX900 *1,899달러* / 가운데 WM1AM3 *2,999달러* / 금도금 WM1ZM3 *5,899달러*&quot;, &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;중반부&quot;}, &quot;outroLine1&quot;: {&quot;editor&quot;: &quot;text&quot;, &quot;default&quot;: &quot;셋 중 하나 고른다면&quot;, &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;마지막&quot;}, &quot;outroLine2&quot;: {&quot;editor&quot;: &quot;text&quot;, &quot;default&quot;: &quot;*어떤 거*?&quot;, &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;마지막&quot;}, &quot;ctaText&quot;: {&quot;editor&quot;: &quot;text&quot;, &quot;default&quot;: &quot;팔로우하고 다음 소식 받기&quot;, &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;마지막&quot;}, &quot;motionEditor&quot;: {&quot;editor&quot;: &quot;boolean&quot;, &quot;default&quot;: true, &quot;tsType&quot;: &quot;boolean&quot;, &quot;section&quot;: &quot;보기&quot;}}">
+class Component extends DCLogic {
+  renderVals() {
+    const d = {
+          "layout": "rank",
+          "accent": "#FF5A36",
+          "transition": "셔터",
+          "platform": "인스타그램",
+          "handle": "@channel",
+          "videoSrc": "",
+          "videoStart": 0,
+          "videoFit": "채우기",
+          "sound": false,
+          "kicker": "소니 워크맨 · 2026",
+          "line1": "신형 워크맨 3종, *가격* 한눈에",
+          "items": "ZX900|1,899 / WM1AM3|2,999 / WM1ZM3|5,899",
+          "unit": "$",
+          "unitPos": "prefix",
+          "highlight": 2,
+          "bodySubs": "막내 ZX900 *1,899달러* / 가운데 WM1AM3 *2,999달러* / 금도금 WM1ZM3 *5,899달러*",
+          "outroLine1": "셋 중 하나 고른다면",
+          "outroLine2": "*어떤 거*?",
+          "ctaText": "팔로우하고 다음 소식 받기"
+    };
+    const P = {};
+    for (const k in d) P[k] = this.props[k] ?? d[k];
+    P.layout = d.layout;
+    P.videoFit = P.videoFit === '맞추기' ? 'fit' : 'cover';
+    P.platform = { '유튜브': 'youtube', '숨김': 'none' }[P.platform] || 'instagram';
+    P.transition = { '셔터': 'shutter', '줌 펀치': 'zoom', '없음': 'none' }[P.transition] || 'slash';
+    return { pieceProps: P };
+  }
+}
+</script>
+</body>
+</html>

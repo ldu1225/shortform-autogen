@@ -1,0 +1,67 @@
+{
+ "ai_gadget": [
+  "Plaud",
+  "Rabbit r1",
+  "Ray-Ban Meta",
+  "Samsung",
+  "Apple",
+  "Sony",
+  "Bose",
+  "Nothing",
+  "DJI",
+  "Insta360",
+  "XREAL",
+  "VITURE",
+  "Rokid",
+  "Roborock",
+  "Dreame",
+  "ECOVACS",
+  "Narwal",
+  "eufy"
+ ],
+ "golf_tech": [
+  "Garmin Golf",
+  "Bushnell Golf",
+  "Voice Caddie",
+  "Rapsodo Golf",
+  "Full Swing Golf",
+  "TrackMan Golf",
+  "Shot Scope",
+  "Arccos Golf",
+  "TaylorMade Golf",
+  "Callaway Golf",
+  "Titleist",
+  "PING Golf",
+  "GOLFZON"
+ ],
+ "power_camp": [
+  "EcoFlow",
+  "Jackery",
+  "BLUETTI",
+  "Anker SOLIX",
+  "Goal Zero",
+  "Snow Peak",
+  "Helinox",
+  "Coleman"
+ ],
+ "pet_tech": [
+  "PETKIT",
+  "Litter-Robot",
+  "CATLINK",
+  "PETLIBRO",
+  "Furbo",
+  "Neakasa",
+  "pidan"
+ ],
+ "ai_robot": [
+  "Unitree Robotics",
+  "Boston Dynamics",
+  "1X",
+  "Figure AI",
+  "Tesla",
+  "Agility Robotics",
+  "Apptronik",
+  "Galbot",
+  "UBTECH"
+ ]
+}
